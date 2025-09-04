@@ -2,7 +2,7 @@
 
 Jason Z
 
-UChicago Class of 29'
+UChicago 29
 
 CS + Math
 
