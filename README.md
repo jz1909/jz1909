@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-Jason Z, UChicago Class of 29'
+Jason Z
 
-Interested in CS + Math
+UChicago Class of 29'
+
+CS + Math
 
 zwenz@uchicago.edu
 
-![An image of a cute dog](https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg)
+![An image of a cute dog for fun](https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg)
 
 
 
