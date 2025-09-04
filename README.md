@@ -8,7 +8,7 @@ CS + Math
 
 zwenz@uchicago.edu
 
-![An image of a cute dog for fun](https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg)
+![A picture of an old man sitting](https://github.com/jz1909/jz1909/blob/main/Assets/timefliesby.png)
 
 
 
