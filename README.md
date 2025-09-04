@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Jason Z, UChicago Class of 29'
+
+Interested in CS + Math
+
+zwenz@uchicago.edu
+
+![An image of a cute dog](https://cdn.britannica.com/16/234216-050-C66F8665/beagle-hound-dog.jpg)
+
+
+
 <!--
 **jz1909/jz1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
