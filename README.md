@@ -8,7 +8,7 @@ CS + Math
 
 zwenz@uchicago.edu
 
-![A picture of an old man sitting](https://github.com/jz1909/jz1909/blob/main/Assets/timefliesby.png)
+<img src="https://github.com/jz1909/jz1909/blob/main/Assets/timefliesby.png" alt="An image of an old man sitting" width="200"/>
 
 
 
