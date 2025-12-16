@@ -8,10 +8,6 @@ CS + Math
 
 zwenz@uchicago.edu
 
-<img src="https://github.com/jz1909/jz1909/blob/main/Assets/timefliesby.png" alt="An image of an old man sitting" width="200"/>
-
-
-
 <!--
 **jz1909/jz1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
